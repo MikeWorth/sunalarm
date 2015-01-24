@@ -2,7 +2,7 @@
   
 A Raspberry Pi sunrise alarm clock using a [Digital RGB LED Weatherproof Strip](https://www.adafruit.com/product/306) from [Adafruit](https://www.adafruit.com).  
 
-A sunrise alarm clock is an alarm that, in theory, simulates the rising of the sun to gently awaken you from you nightly slumber. I have been using a sunrise alarm clock for more than a year now and can attest that it works pretty well. At least it works pretty well for me. My wife can, and often does, go back to sleep after waking, so I guess that it requires the desire, once awakened, to get out of bed.  
+A sunrise alarm clock is an alarm that, in theory, simulates the rising of the sun to gently awaken you from your nightly slumber. I have been using a sunrise alarm clock for more than a year now and can attest that it works pretty well. At least it works pretty well for me. My wife can, and often does, go back to sleep after waking, so I guess that it requires the desire, once awakened, to get out of bed.  
 
 Components:  
 * Raspberry Pi Model B (or better) running Raspbian GNU/Linux
